@@ -1,0 +1,82 @@
+
+.body{
+    background-color: wheat;
+    display: inline-block;
+}
+.container{
+    display: table;
+    background-color: lightgray;
+    width: 35%;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    margin-top: 5cm;
+    margin-bottom: 5cm;
+    border-radius: 2%;
+    padding-right: 10px;
+}
+img{
+    height: 387px;
+    width: 245px;
+    vertical-align: middle;
+    display: table-cell;
+    padding-right: 20px;
+    margin: 0;
+    border-radius: 2%;
+}
+#text{
+    text-align: left;
+    vertical-align: middle;
+    display: table-cell;
+    padding-bottom: 7px;
+}
+#p{
+    font-size: 11px;
+    color: hsl(228, 12%, 48%);
+    font-family: 'Montserrat', sans-serif;
+}
+.button{
+    display: table;
+    width: 70%;
+    background-color: darkgreen;
+    color: white;
+    border-radius: 4%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 27px;
+    padding-right: 27px;
+    font-family: Montserrat,sans-serif;
+}
+.h1{
+    color: hsl(158, 36%, 37%);
+    font-family: 'Fraunces', serif;
+}
+.h{
+    color: hsl(212, 21%, 14%);
+    font-family: 'Fraunces', serif;
+}
+.sec{
+    display: table;
+}
+.p{
+    vertical-align: middle;
+    display: table-cell;
+}
+.pp{
+    padding: 20px;
+    font-size: 11px;
+    vertical-align: middle;
+    display: table-cell;
+    color: hsl(226, 26%, 20%);
+}
+#imm{
+    height: 15px;
+    width: 15px;
+    vertical-align: middle;
+    display: table-cell;
+}
+#pre{
+    vertical-align: middle;
+    display: table-cell;
+    padding-right: 0%;
+}
